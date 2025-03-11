@@ -23,7 +23,7 @@ Code design and style [10 points]:
 
     -Inheritance:
 
-        -Hashtable class is abstract that is extended by subclasses for 
+        -simple_inheritance_example.Hashtable class is abstract that is extended by subclasses for
          linear probing and double hashing:
 
     -Class design:

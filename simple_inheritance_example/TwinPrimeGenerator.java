@@ -1,7 +1,7 @@
 package simple_inheritance_example;
 
 public class TwinPrimeGenerator {
-    public void main(){
+    public static void main(String[] args){
         int i = generateTwinPrime(95500, 96000);
         System.out.println(i);
     }
