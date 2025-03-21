@@ -1,8 +1,5 @@
 package simple_inheritance_example;
 
-
-import java.util.Hashtable;
-
 public class DoubleHashing extends Hashtable {
     public DoubleHashing(int min, int max) {
         super(min, max);

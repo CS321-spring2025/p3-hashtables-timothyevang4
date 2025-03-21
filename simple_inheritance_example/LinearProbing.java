@@ -1,8 +1,5 @@
 package simple_inheritance_example;
 
-
-import java.util.Hashtable;
-
 public class LinearProbing extends Hashtable {
     public LinearProbing(int min, int max) {
         super(min, max);

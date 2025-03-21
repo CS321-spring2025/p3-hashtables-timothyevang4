@@ -2,7 +2,7 @@ package simple_inheritance_example;
 
 public abstract class Hashtable {
     HashObject[] table;
-    int m;
+    public int m;
 
     public abstract int hash(Object key, int i);
 
